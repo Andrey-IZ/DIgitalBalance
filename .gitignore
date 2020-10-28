@@ -1,0 +1,7 @@
+*.suo
+output/
+obj/
+bin/
+*.user
+packages/
+!tools/bin/

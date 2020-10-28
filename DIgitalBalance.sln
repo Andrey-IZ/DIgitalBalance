@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBalance", "DIgitalBalance\DigitalBalance.csproj", "{6F92E862-8490-4890-B6E5-2FB899B7EE66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B621885B-3CDF-46AA-B0E8-C561A5C26F39}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A73D55D4-1875-4551-B3DB-0018477C8EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F92E862-8490-4890-B6E5-2FB899B7EE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F92E862-8490-4890-B6E5-2FB899B7EE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F92E862-8490-4890-B6E5-2FB899B7EE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F92E862-8490-4890-B6E5-2FB899B7EE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73D55D4-1875-4551-B3DB-0018477C8EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73D55D4-1875-4551-B3DB-0018477C8EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73D55D4-1875-4551-B3DB-0018477C8EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73D55D4-1875-4551-B3DB-0018477C8EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7872E3A7-D61F-41F2-A256-DF0E891D216B}
+	EndGlobalSection
+EndGlobal
